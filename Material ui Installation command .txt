@@ -1,0 +1,19 @@
+#  with NPM
+npm install @mui/material @emotion/react @emotion/styled --force
+
+# only if you use @mui/icons-material
+npm install @mui/icons-material --force
+
+# 👇️ only if you use @mui/lab
+npm install @mui/lab --force
+
+# ----------------------------------------------
+
+# 👇️ with YARN
+yarn add @mui/material @emotion/react @emotion/styled
+
+# 👇️ only if you use @mui/icons-material
+yarn add @mui/icons-material
+
+# 👇️ only if you use @mui/lab
+yarn add @mui/lab
