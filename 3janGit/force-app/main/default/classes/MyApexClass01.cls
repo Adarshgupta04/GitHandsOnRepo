@@ -4,6 +4,9 @@ public with sharing class MyApexClass01 {
         if(2 == 2){
             System.debug('A');        
         }
+        if(2 == 3){
+            System.debug('A');        
+        }
         System.debug('This is a new apex Classes');
         System.debug('o'); 
         String message2 = 'Gupta';
