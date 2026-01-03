@@ -5,5 +5,6 @@ public with sharing class MyApexClass01 {
         System.debug('o'); 
         String message2 = 'Gupta';
         String m = 'a'; 
+        String a = 'a';
     }
 }
