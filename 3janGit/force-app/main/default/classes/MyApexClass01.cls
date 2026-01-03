@@ -6,5 +6,6 @@ public with sharing class MyApexClass01 {
         String message2 = 'Gupta';
         String m = 'a'; 
         String a = 'a';
+        String secondLine = 'ff';
     }
 }
