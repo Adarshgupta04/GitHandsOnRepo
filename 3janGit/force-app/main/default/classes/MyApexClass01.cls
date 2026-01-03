@@ -5,7 +5,10 @@ public with sharing class MyApexClass01 {
             System.debug('dfsdfsdfsfdf');        
         }
         if(2 == 3){
+            Integer i = 2;
             String fff = 'ffgfg'; 
+            Integer i2 = 2;
+            Integer i3 = 2;
             System.debug('4454554554');  
         }
         System.debug('This is a new apex Classes');
