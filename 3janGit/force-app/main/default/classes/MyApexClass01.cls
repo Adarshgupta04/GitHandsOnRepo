@@ -2,7 +2,7 @@ public with sharing class MyApexClass01 {
     public MyApexClass01() {
         System.debug('A');        
         if(2 == 2){
-            System.debug('A');        
+            System.debug('dfsdfsdfsfdf');        
         }
         if(2 == 3){
             System.debug('A');        
