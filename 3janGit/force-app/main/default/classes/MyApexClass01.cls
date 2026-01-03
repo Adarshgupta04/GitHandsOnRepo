@@ -5,8 +5,8 @@ public with sharing class MyApexClass01 {
             System.debug('dfsdfsdfsfdf');        
         }
         if(2 == 3){
-            String fff = 'dfdf'; 
-            System.debug('4454554554');        
+            String fff = 'dfddfdsdsdsdffdgfgdfgzxzxsdsdszxzdf'; 
+            System.debug('4454554554');  
         }
         System.debug('This is a new apex Classes');
         System.debug('o'); 
